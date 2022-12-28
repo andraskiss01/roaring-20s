@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="gold">#FFD700</color>
+    <color name="colorDarkGrey">#444444</color>
+    <color name="colorLightGrey">#888888</color>
+    <color name="colorBlack">#000000</color>
+    <color name="darkCrimson">#360709</color>
+    <color name="lightCrimson">#6d1012</color>
+    <color name="wood">#4d2f17</color>
+    <color name="lightWood">#704729</color>
+    <color name="offWhite">#f2e8dc</color>
+    <color name="nicotine">#ffe896</color>
+    <color name="colorWhite">#FFFFFF</color>
+</resources>
